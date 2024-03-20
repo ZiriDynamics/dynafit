@@ -10,7 +10,7 @@ export default function Footer() {
             </ul>
             <div className={styles.horizontal}>
                 <p>ZIRI Dynamics</p>
-                <p>COPYRIGHT © 2023</p>
+                <p>COPYRIGHT © 2024</p>
             </div>
         </footer>
     );

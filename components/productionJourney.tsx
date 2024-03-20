@@ -16,7 +16,7 @@ export default function ProductionJourney() {
         },
         {
             location: 'Amsterdam',
-            operation: 'Recieving',
+            operation: 'Receiving',
             kgCO2: 0.133
         },
         {
@@ -31,7 +31,7 @@ export default function ProductionJourney() {
         },
         {
             location: 'You',
-            operation: 'delivering',
+            operation: 'Delivering',
             kgCO2: 0.002
         },
     ]

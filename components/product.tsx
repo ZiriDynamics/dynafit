@@ -21,7 +21,7 @@ export default function Product() {
     const [showLogin, setShowLogin] = useState(false);
 
     const tableData = {
-        'Product ID': '08-0000#x200B;070914', // &#x200B; is a zero-width space to prevent safari from thinking it's a phone number
+        'Product ID': '08-0000&#x200B;070914', // &#x200B; is a zero-width space to prevent safari from thinking it's a phone number
         'Color': 'Burgundy',
         'Layers': 'DYNASHELL ULTRA LIGHT',
         'Clothing fit': 'Medium',
