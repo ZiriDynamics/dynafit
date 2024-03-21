@@ -30,7 +30,7 @@ export default function Recommendations() {
 
     return (
         <div className={styles.recommendations}>
-            <h1>That would suit you too</h1>
+            <h1>This would suit you too</h1>
             <div className={styles.recommendationsList}>
                 {data.map((item, index) => (
                     <a href={item.url} target="_blank" rel="noreferrer" className={styles.recommendationLink} style={{textDecoration: 'none'}} key={index}>
