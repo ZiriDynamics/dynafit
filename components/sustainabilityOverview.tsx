@@ -72,7 +72,7 @@ export default function SustainabilityOverview() {
                 )
             })
         }
-        <img className={styles.img} src={'/skiier_with_dog.png'} alt="skiier with dog" width={500} height={500} />
+        <img className={styles.img} src={'/skiasd.png'} alt="skiier with dog" width={500} height={500} />
         </div>
     );
 }
